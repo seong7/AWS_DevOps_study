@@ -4,6 +4,8 @@ udemy 강의 - [[Introduction to Cloud Computing on Amazon AWS for Beginners](ht
 
 ## 01. Docker [>>](./01.Docker)
 
+## 02. AWS Basics [>>](./01.Docker)
+
 <br>
 
 # 강의 수강 계획
